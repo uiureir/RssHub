@@ -940,6 +940,9 @@
   "/bjx/gf/:type": [
     "Sxuet"
   ],
+  "/blizzard/news-cn/:category?": [
+    "zhangpeng2k"
+  ],
   "/blizzard/news/:language?/:category?": [
     "nczitzk"
   ],
@@ -2752,7 +2755,8 @@
     "pseudoyu"
   ],
   "/google/research": [
-    "Levix"
+    "Levix",
+    "cscnk52"
   ],
   "/google/scholar/:query": [
     "HenryQW"
@@ -4208,6 +4212,9 @@
   "/lfsyd/user/:id?": [
     "auto-bot-ty"
   ],
+  "/lhratings/research/:type?": [
+    "nczitzk"
+  ],
   "/lianxh/:category?": [
     "nczitzk"
   ],
@@ -5270,6 +5277,9 @@
   "/oshwhub/:sortType?": [
     "tylinux"
   ],
+  "/osu/latest-ranked/:routeParams?": [
+    "nfnfgo"
+  ],
   "/osu/packs/:type?": [
     "JimenezLi"
   ],
@@ -5715,6 +5725,9 @@
   ],
   "/qq/kg/:userId": [
     "zhangxiang012"
+  ],
+  "/qq/lol/news/:category?": [
+    "nczitzk"
   ],
   "/qq/pd/guild/:id/:sub?/:sort?": [
     "mobyw"
@@ -6706,12 +6719,6 @@
   "/taoguba/blog/:id": [
     "nczitzk"
   ],
-  "/taoguba/user/:id": [
-    "nczitzk"
-  ],
-  "/taoguba/index": [
-    "nczitzk"
-  ],
   "/taoguba/:category?": [
     "nczitzk"
   ],
@@ -7403,9 +7410,6 @@
   ],
   "/washingtonpost/app/:category{.+}?": [
     "quiniapiezoelectricity"
-  ],
-  "/watasuke/blog": [
-    "honahuku"
   ],
   "/wchscu/recruit": [
     "ViggoC"
